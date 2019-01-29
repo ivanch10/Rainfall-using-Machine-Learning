@@ -15,6 +15,5 @@ Optimal Values of Parameters:
 Maximum number of Depth = 4, minimal number of Leaf = 2**8, Number of Features = 8, Number of learners = 20
 
 ## D. Scores:
-MSE = 3.66 in validation data
+MSE = 3.66 in validation data, 
 Kaggle score = 3.48732
-The MSE in validation data is closed to Kaggle score.
