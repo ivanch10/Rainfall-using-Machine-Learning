@@ -10,10 +10,11 @@ The objective is to test and analyze the performance of various prediction techn
 3. Determine best Number of Features in Random Forest with optimal Maximum Depth and Minimal Number of Leafs where the Random Forest function is provided in mltools library.
 4. Determine best Number of learners in Random Forest with optimal Number of Features, Maximum Depth, and Minimal Number of Leafs.
 
-# C. Results:
+## C. Results:
 Optimal Values of Parameters:
 Maximum number of Depth = 4, minimal number of Leaf = 2**8, Number of Features = 8, Number of learners = 20
-Scores:
+
+## D. Scores:
 MSE = 3.66 in validation data
 Kaggle score = 3.48732
 The MSE in validation data is closed to Kaggle score.
